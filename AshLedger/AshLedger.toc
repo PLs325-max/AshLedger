@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Ash Ledger
+## Notes: Standalone multi-character Soul Ash, crates and multi-character raid locks.
+## Author: Éuthanize
+## Version: 1.0 (beta)
+## SavedVariables: AshLedgerDB
+AshLedger.lua
